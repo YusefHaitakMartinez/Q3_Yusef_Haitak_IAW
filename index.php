@@ -18,6 +18,6 @@
         echo "<p>El resultado dinámico de sumar $numero1 y $numero2 es: <strong>$suma</strong></p>";
     ?>
     
-    <p>Esta última línea vuelve a ser HTML estático normal.</p>
+    <p>Esta última línea vuelve a ser HTML estático normal. Esta es una modificación del archivo para verificar vinculación de VS Code y Github.</p>
 </body>
 </html>
